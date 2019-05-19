@@ -13,6 +13,10 @@
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
 
+    <!-- No content -->
+    <string name="detail_unknown_description">Unknown</string>
+    <string name="detail_no_image">https://textiletrends.in/gallery/1547020644No_Image_Available.jpg</string>
+
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
         <item>Bosna</item>
